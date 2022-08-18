@@ -3,13 +3,13 @@
 
 conda init bash
 
-conda create --yes --name dhdsblend2021_clase10 python=3.7
+#conda create --yes --name dhdsblend2021_clase10 python=3.7
 
-conda activate dhdsblend2021_clase10
+conda activate dhdsblend2021
 
-conda install jupyterlab=2.2.6
+#conda install jupyterlab=2.2.6
 
-conda install -c conda-forge nb_conda_kernels=2.3.1
+#conda install -c conda-forge nb_conda_kernels=2.3.1
 
 conda install -c conda-forge pyproj=2.4.2.post1
 
